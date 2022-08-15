@@ -1,0 +1,19 @@
+{
+    "name": "luccui/lampart-test",
+    "description": "PHP Intership Test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LampartTest\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luccui000",
+            "email": "luccui2k@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
